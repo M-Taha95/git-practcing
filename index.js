@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('version20');
+console.log('version22');
